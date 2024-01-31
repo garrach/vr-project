@@ -1,30 +1,5 @@
 # Projet de Fin d'Étude (PFE) - Projet de Réalité Virtuelle
 
-
-
-# React Tilt
-
-[![npm version][npm-badge]][npm-url]
-[![npm downloads][downloads-badge]][npm-url]
-[![npm bundle size][size-badge]][size-url]
-[![Open issues][issues-badge]][issues-url]
-[![TypeScript][typescript-badge]][typescript-url]
-[![semantic-release][semantic-badge]][semantic-url]
-
-[![CI][lint-badge]][lint-url]
-[![CI][tsc-badge]][tsc-url]
-[![CI][build-badge]][build-url]
-[![CI][test-badge]][test-url]
-[![CI][test-e2e-badge]][test-e2e-url]
-[![Codecov Coverage][coverage-badge]][coverage-url]
-
-[![CI][deploy-storybook-badge]][deploy-storybook-url]
-[![CI][npm-release-badge]][npm-release-url]
-
----
-
-
-
 ## Présentation du Projet
 
 Salut tout le monde ! Mon PFE, c'est un projet de réalité virtuelle (RV) en informatique. On va plonger dans un monde virtuel époustouflant ! 🌐
